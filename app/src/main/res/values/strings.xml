@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FileUtils</string>
+    <string name="ids_rv_item_1">Create directory</string>
+    <string name="ids_rv_item_2">Compress Zip File</string>
+    <string name="ids_rv_item_3">File Download</string>
+    <string name="ids_create_folder">Name of folder to create</string>
+    <string name="ids_create">create</string>
+    <string name="ids_create_file">Create File</string>
+    <string name="ids_create_zip">Create Zip</string>
 </resources>
